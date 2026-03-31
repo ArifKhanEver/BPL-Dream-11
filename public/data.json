@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 15000,
+    "image": "https://wallpapercat.com/w/full/e/9/1/150106-2880x1620-desktop-hd-virat-kohli-background-photo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "rating": 94,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 12000,
+    "image": "https://images.mid-day.com/images/images/2025/sep/Rashid-Khan-afp-spet-pic-1758157335627_d.png"
+  },
+  {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": 13500,
+    "image": "https://media.crictracker.com/media/attachments/1696748634550_Shakib-Al-Hasan.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 14000,
+    "image": "https://miro.medium.com/1*i2D04lfp1IX_Sai5QfKpbA.gif"
+  },
+  {
+    "id": 5,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 13000,
+    "image": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/c308/live/ae481190-2905-11f1-8d7b-c7ea0e92917e.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicketkeeper",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 11000,
+    "image": "https://d2gjl3w70qc898.cloudfront.net/content/uploads/2023/10/21183019/2.74098669.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 10500,
+    "image": "https://e0.365dm.com/25/11/2048x1152/skysports-kane-williamson-new-zealand_7069504.jpg?20251102120344"
+  },
+  {
+    "id": 8,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "rating": 95,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 14500,
+    "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20241122__36N39GM__v1__HighRes__CricketAusInd-1733131187.jpg?resize=1920%2C1440"
+  },
+  {
+    "id": 9,
+    "name": "Wanindu Hasaranga",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "rating": 87,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 9500,
+    "image": "https://c.ndtvimg.com/2022-09/47k350j_wanindu-hasaranga-_625x300_09_September_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675"
+  },
+  {
+    "id": 10,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper",
+    "rating": 86,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 10000,
+    "image": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/22b6/live/9e2f1330-9792-11f0-a4bc-e5c9e246a537.jpg"
+  }
+]
