@@ -6,8 +6,8 @@ import Players from './Components/Players/Players';
 import { ToastContainer } from 'react-toastify';
 
 
+const playersData = fetch('/data.json'). then(res =>res.json());
 function App() {
-  const playersData = fetch('/data.json'). then(res =>res.json());
   const [coin, setCoin] = useState(50000)
 
   return (

@@ -15,6 +15,7 @@ const SelectedPlayers = ({ selectedPlayers, setSelectedPlayers, setCoin, coin}) 
         
     }
 
+
     return (
         <div className='space-y-3 mt-4'>
             { selectedPlayers.length ===0? <div className='grid place-content-center h-[400px]'> <h2>No players Available</h2></div> :
