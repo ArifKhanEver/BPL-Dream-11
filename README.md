@@ -36,4 +36,4 @@ This application is a React-based dashboard that simulates a sports auction envi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ArifKhan27/bpl-dream-11.git]
+   git clone [https://github.com/ArifKhanEver/BPL-Dream-11.git]
