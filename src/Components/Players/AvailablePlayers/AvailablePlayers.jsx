@@ -13,8 +13,6 @@ const AvailablePlayers = ({playerData, setCoin, coin, selectedPlayers, setSelect
                 }
                 
             </div>
-
-            
         </div>
     );
 };

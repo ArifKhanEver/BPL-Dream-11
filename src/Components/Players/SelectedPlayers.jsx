@@ -12,9 +12,7 @@ const SelectedPlayers = ({ selectedPlayers, setSelectedPlayers, setCoin, coin}) 
         setCoin(coin + player.price)
 
         toast.error(`${player.name} is Deselected`);
-        
     }
-
 
     return (
         <div className='space-y-3 mt-4'>
